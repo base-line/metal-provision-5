@@ -1,0 +1,4 @@
+project_id  = ""
+quantity    = 1
+description = "anycast-global-ip"
+type        = "global_ipv4"
